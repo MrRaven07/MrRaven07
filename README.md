@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hi there 👋🐔🐦‍⬛
+
+## I'm still working on the README.md page for the profile, until then you can look through my [repositories](https://github.com/MrRaven07?tab=repositories).
+
+
+
 
 <!--
-**MrRaven07/MrRaven07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
